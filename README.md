@@ -18,8 +18,10 @@
     - Seaborn
 
 ## Dataset:
-    Source: [Adult Census Dataset - UCI](https://archive.ics.uci.edu/ml/datasets/adult)
-    Type: Classification
+*
+    **Source**: [Adult Census Dataset - UCI](https://archive.ics.uci.edu/ml/datasets/adult)
+* 
+    **Type**: Classification
 
 ## Model Performances:
     - Logistic Regression: 78.9921 %
