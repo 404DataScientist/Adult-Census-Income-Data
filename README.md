@@ -18,7 +18,7 @@
     - Seaborn
 
 ## Dataset:
-    Source: https://archive.ics.uci.edu/ml/datasets/adult
+    Source: [Adult Census Dataset - UCI](https://archive.ics.uci.edu/ml/datasets/adult)
     Type: Classification
 
 ## Model Performances:
