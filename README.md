@@ -1,7 +1,7 @@
 # Project Title: Adult Census Income Dataset
 
 ## Overview:
-    This project uses adult census dataset (classification dataset) to predict the income of the customers based on features like age, workclass, fnlwght(final weight), education.num, accupation and sex.
+    This project uses adult census dataset (classification dataset) to predict the income of the customers based on features like age, workclass, fnlwght(final weight), education.num, occupation and sex.
 
 ## Features:
     - Comparison between estimators Logistic Regression, Decision Tree, Random Forest and XGBoost
